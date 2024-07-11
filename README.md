@@ -17,11 +17,8 @@ DISCLAIMER : I am not responsible For Your Unauthorized Activities
 ```
 
 ---
-- 
 - customizable host / port / threads / hits per run
-- 
 - command to start: `python3 attack.py`
-- 
 ---
 INSTALLING PYTHON ON LINUX:
 ```
