@@ -10,9 +10,8 @@
          
          Developed by : Kishore KK
          for private USAGE ONLY
-         Make sure you have the
-        permission to attack the
-               given host
+Make sure you have the permission to attack the given host
+
 DISCLAIMER : I am not responsible For Your Unauthorized Activities             
 ```
 
